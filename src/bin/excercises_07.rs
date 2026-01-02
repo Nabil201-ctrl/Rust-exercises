@@ -15,7 +15,8 @@ fn count (input: String){
         else {
             consonants_counter +=1;
         }
-    }
+    };
 
-    
+    println!("The number of vowels in the word are ${}", vowel_counter);
+    println!("The number of consonants in the word are ${}", consonants_counter);
 }
