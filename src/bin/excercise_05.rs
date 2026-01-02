@@ -1,0 +1,1 @@
+// Reverse a string without using .rev() directly (manual loop).
